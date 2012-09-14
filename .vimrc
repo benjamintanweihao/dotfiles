@@ -12,6 +12,7 @@ set autoindent
 set nowrap
 set copyindent
 set number
+set mouse=a
 set shiftwidth=2
 set laststatus=2
 set shiftround
