@@ -9,3 +9,4 @@ if [ "${BASH-no}" != "no" ]; then
 fi
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
+rvm use ruby-1.9.3-p194-falcon --default > /dev/null 2>&1
